@@ -23,7 +23,7 @@ body {
   }
   
   .yes-button {
-    font-size: 1.5em;
+    font-size: 3.5em;
     padding: 10px 20px;
     margin-right: 10px;
     background-color: #4caf50;
@@ -34,7 +34,7 @@ body {
   }
   
   .no-button {
-    font-size: 1.5em;
+    font-size: 3.5em;
     padding: 10px 20px;
     background-color: #f44336;
     color: white;
